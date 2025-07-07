@@ -1,9 +1,9 @@
 <h1>Hi, I'm Drew! <br/><a href="https://github.com/abarnes285/abarnes285">Programmer</a> <a> and </a> <a href="www.linkedin.com/in/drew-howard03-">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+- <b>AZ-104 Labs (Cloud)</b>
+  - [VM Deployment](https://github.com/abarnes285/AZ-104-LABS/tree/main/VM%20Deployment%20)
 <!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
