@@ -1,7 +1,7 @@
 <h1>Hi, I'm Drew! <br/><a href="https://github.com/abarnes285/abarnes285"> IT Analyst</a> <a> and </a> <a href="www.linkedin.com/in/drew-howard03-">Cybersecurity Professional</a>
 
-##👨‍💻 Cybersecurity Projects:
-### AZ-104 Labs (Cloud)
+#👨‍💻 Cybersecurity Projects:
+## AZ-104 Labs (Cloud)
   -[Project 1 - VM Deployment](https://github.com/abarnes285/AZ-104-LABS/blob/main/VM%20Deployment%20/README.md)
   
 <!--
