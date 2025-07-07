@@ -1,4 +1,4 @@
-<h1>Hi, I'm Drew! <br/><a href="https://github.com/abarnes285/abarnes285">IT Analyst</a> <a> and </a> <a href="www.linkedin.com/in/drew-howard03-">Cybersecurity Professional</a>
+<h1>Hi, I'm Drew! <br/><a href="https://github.com/abarnes285/abarnes285"> IT Analyst</a> <a> and </a> <a href="www.linkedin.com/in/drew-howard03-">Cybersecurity Professional</a>
 
 ##👨‍💻 Cybersecurity Projects:
 ### AZ-104 Labs (Cloud)
