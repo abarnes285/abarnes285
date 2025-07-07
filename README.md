@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>AZ-104 Labs (Cloud)</b>
-  - [VM Deployment](https://github.com/abarnes285/AZ-104-LABS/tree/main/VM%20Deployment%20)
+  - ![VM Deployment](https://github.com/abarnes285/AZ-104-LABS/tree/main/VM%20Deployment%20)
+  
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
