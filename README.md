@@ -1,8 +1,8 @@
 <h1>Hi, I'm Drew! <br/><a href="https://github.com/abarnes285/abarnes285">Programmer</a> <a> and </a> <a href="www.linkedin.com/in/drew-howard03-">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>AZ-104 Labs (Cloud)</b>
-  -Project 1 -[VM Deployment](https://github.com/abarnes285/AZ-104-LABS/blob/main/VM%20Deployment%20/README.md)
+##👨‍💻 Cybersecurity Projects:
+### AZ-104 Labs (Cloud)
+  -[Project 1 - VM Deployment](https://github.com/abarnes285/AZ-104-LABS/blob/main/VM%20Deployment%20/README.md)
   
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
