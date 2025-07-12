@@ -2,7 +2,7 @@
 
 👨‍💻 Cybersecurity Projects:
 ## AZ-104 Labs 
-  -[Project 1 - VM Deployment](https://github.com/abarnes285/AZ-104-LABS/blob/main/VM%20Deployment%20/README.md)
+  <a href= "https://github.com/abarnes285/AZ-104-LABS/blob/main/VM%20Deployment%20/README.md">Project 1 - VM Deployment </a>
   
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
