@@ -2,7 +2,7 @@
 
 👨‍💻 Cybersecurity Projects:
 ## AZ-104 Labs 
-  <a href= "https://github.com/abarnes285/AZ-104-LABS/blob/main/VM%20Deployment%20/README.md">Project 1 - VM Deployment </a>
+  <a href= "https://github.com/abarnes285/AZ-104-LABS/blob/main/VM%20Deployment%20/README.md">Project 1 - VM Deployment </a> <br/>
   <a href= "https://github.com/abarnes285/AZ-104-LABS/tree/main/Azure%20Storage%20account%20">Project 2 - Azure Storage Account </a>
   
 <!--
